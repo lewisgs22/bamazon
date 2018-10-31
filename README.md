@@ -1,1 +1,2 @@
-# bamazon
+Welcome to Bamazon. Bamazon is a CLI application which models an online store front. It utilizes a SQL database.
+The user passes arguments to the command line in order to refernece the product they want to purchase as well as the quantity they need. The application responds by either allowing the purchase or letting the user know there is not enough stock of their selected item. In the screenshots folder you can see examples of a succesful purchase and one that could not be completed due to insufficient stock.
